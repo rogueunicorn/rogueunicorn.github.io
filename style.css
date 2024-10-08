@@ -1,11 +1,10 @@
-body {background: hotpink;
-font-family: "Baskervville SC", serif;
+body {background: orchid;
+  font-family: "Helvetica Neue";
   font-weight: 400;
   font-style: normal;}
-h1 {color: aquamarine; }
-h2 {font-style: italic;}
-p {color: blueviolet;}
-#MDM {color: peachpuff;
+h1{color: white; }
+h2 
+p 
 width: 10%;
 img{float: left
 border: 5px solid green;
@@ -17,3 +16,6 @@ ul {float: right;
 border: 5px solid green;
 padding:25px;
 margin:25px;}
+border: th, td {
+  border-color: #96D4D4;
+}
