@@ -1,21 +1,7 @@
-body {background: orchid;
-  font-family: "Helvetica Neue";
-  font-weight: 400;
-  font-style: normal;}
-h1{color: white; }
-h2 
-p 
-width: 10%;
-img{float: left
-border: 5px solid green;
-padding:25px;
-margin:25px;}
- {background: orange;
-width: 40%
-ul {float: right;
-border: 5px solid green;
-padding:25px;
-margin:25px;}
-border: th, td {
-  border-color: #96D4D4;
-}
+body {font-family: 'Helvetica Neue', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #222;
+      line-height: 1.6;
+      }
