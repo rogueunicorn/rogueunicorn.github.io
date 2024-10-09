@@ -2,9 +2,8 @@ h1{color: dark;}
 body {font-family: 'Helvetica Neue', sans-serif;
 	margin: 0;
 	padding: 0;
-	background-color: #f9f9f9;
+	background-color: lightslategray;
 	color: #222;
 	line-height: 1.6;}
-	.highlighted{background-color: darkgray;
-		float: right;}
+	.highlighted{background-color: darkgray;}
 		#About{background-color: green;}
