@@ -5,5 +5,9 @@ body {font-family: 'Helvetica Neue', sans-serif;
 	background-color: whitesmoke;
 	color: #222;
 	line-height: 1.6;}
-	.highlighted{background-color: darkgray;}
-		.right{float: right;}
+
+.highlighted{background-color: darkgray;}
+
+.right{float: right;}
+
+#about{color: darkgray;}
