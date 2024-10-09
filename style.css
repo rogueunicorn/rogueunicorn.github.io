@@ -4,17 +4,16 @@ body {font-family: 'Helvetica Neue', sans-serif;
 	padding: 0;
 	background-color: whitesmoke;
 	color: #222;
-	line-height: 1.6;}
+	line-height: 1.6;
+height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;}
 
 .highlighted{background-color: darkgray;}
 
 #about{color: darkgray;}
-body {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
 
 .container {
   display: grid;
